@@ -1,56 +1,51 @@
-# Assignment 1 Question 1 Program Explanation
+# Assignment 1 Java Programs
 
-## Overview
-This Java program calculates the change a scalper needs to give customers after entering a ticket price, using different values of Crypto coins.
+This folder contains two Java programs for Assignment 1 which are designed for different purposes: calculating change in Crypto coins and managing gift card balances and ticket purchases.
 
-## Features
+## Programs
 
-### Welcome Message
-Prints a welcome message to the Crypto Change Program.
+### 1. Crypto Change Program
 
-### User Input
+**Description:**
+A basic program for calculating the change a scalper needs to give customers after entering a ticket price. The change is given in different values of Crypto coins, counted from the largest to the smallest denominations.
+
+**Usage:**
 1. Prompts for the ticket price (up to 7500 Cryptom).
-2. Reads the ticket price.
+2. Calculates the change from a Pesico (7500 Cryptom).
+3. Determines the number of Bitom (500), Ditom (200), Zitom (50), and remaining Cryptom coins needed.
+4. Print the number of each type of Crypto coin in the change.
+5. Print a thank you message and close the scanner.
 
-### Change Calculation
-1. Calculates change from a Pesico (7500 Cryptom).
-2. Determines the number of Bitom (500), Ditom (200), Zitom (50), and remaining Cryptom coins needed.
+### 2. Gift Card Balance and Ticket Purchase System
 
-### Display Change
-Prints the number of each type of Crypto coin in the change.
+**Description:**
+A program to help customers check their gift card balance and generate an invoice for ticket purchases.
 
-### Closing Message
-Prints a thank you message and closes the scanner.
-
-## IDE
-- **IntelliJ IDEA Version:** 2022.3.1
-
-# Assignment 1 Question 2 Program Explanation
-
-## Overview
-This Java program helps customers check their gift card balance and generate an invoice for ticket purchases.
-
-## Features
-
-### Welcome Message
-Prints a welcome message.
-
-### Gift Card Details
-1. Prompts for the gift card retailer/bank name.
-2. Prompts for the gift card amount.
-3. Displays how many tickets can be purchased.
-
-### Ticket Purchase
-1. Prompts for the number of tickets to purchase.
-2. Calculates and displays the total cost and remaining balance.
-
-### Purchase Information
-1. Prompts for the purchase date (day, month, year).
-2. Generates and prints an invoice with all purchase details.
-
-### Closing Message
-Prints a thank you message and closes the scanner.
+**Usage:**
+1. Prompts the user to enter the gift card retailer/bank name.
+2. Prompts the user to enter the amount on the gift card.
+3. Displays how many tickets can be purchased with the given gift card amount.
+4. Prompts the user to enter the number of tickets they want to purchase.
+5. Calculate and display the total cost and the remaining balance on the gift card.
+6. Prompts the user to enter the purchase date (day, month, year).
+7. Generates and prints an invoice with all purchase details.
+8. Print a thank you message and close the scanner.
 
 ## IDE
+
 - **IntelliJ IDEA Version:** 2022.3.1
 
+## How to Run
+
+1. Open the desired program (Q1.java or Q2.java) in IntelliJ IDEA.
+2. Run the `main` method in the selected program.
+3. Follow the prompts to enter the required information.
+4. The program will display the results based on the input values.
+
+## Authors
+
+- Yuqian Cai (COMP248, Winter 2023)
+
+---
+
+**Note:** Ensure you have Java installed on your machine and configured in your IDE to run these programs.
