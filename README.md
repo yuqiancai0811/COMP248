@@ -11,8 +11,8 @@ This repository contains four Java assignments for the COMP248 course. All assig
     - **Question 1:** Static Latency Computer Program
     - **Question 2:** Dynamic Latency Computer Program
 3. **Assignment 3:**
-    - **Question 1:** Simple Brilliant Mind Game Jackpot Program (7 pts)
-    - **Question 2:** Simple Exam Registration Program (8 pts) Arrays
+    - **Question 1:** Simple Brilliant Mind Game Jackpot Program
+    - **Question 2:** Simple Exam Registration Program
 4. **Assignment 4:**
     - **Simple Learning Management System (Simple LMS)**
 
