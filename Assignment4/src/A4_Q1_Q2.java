@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // -------------------------------------------------------
 // Assignment {4}
-// Written by: {Yuqian cai 40187954}
+// Written by: {Yuqian cai}
 // --------------------------------------------------------
 
 //Test samples:
